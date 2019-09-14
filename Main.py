@@ -1,8 +1,6 @@
 import math
 import logging
 
-# Aviad Malachi 314083361
-
 logging.basicConfig(filename='logger.log', level=logging.INFO, format='%(name)s - %(levelname)s - %(message)s')
 
 class Activity:
